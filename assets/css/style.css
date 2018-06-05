@@ -1,0 +1,128 @@
+body{
+    background-image: url("../images/concrete-texture.png");
+    font-family: "Arial", 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    
+}
+
+h1, h2, h3, h4, h5{
+    font-family: "Georgia", Times, Times New Roman, serif;
+    font-weight: bold;
+}
+
+.navbar-brand{
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    background-color: #4aaaa5;
+    padding: 21px;
+}
+
+.navbar-nav{
+    
+}
+
+.nav-buttons{
+    color: #777777;;
+}
+
+.navbar{
+    height: 90px;
+    background-color: #ffffff;
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-color: #cccccc;
+    
+}
+
+.col-xl-7{
+    background-color: white;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-right: 45px;
+    border-style: solid;
+    border-width:1px;
+    border-color:#cccccc;
+}
+
+#maincontent{
+    margin: 33px;
+}
+
+#title{
+    border-bottom-style: solid;
+    border-width: 5px;
+    border-bottom-color: #cccccc;
+    padding-bottom: 25px;
+    color: #4aaaa5;
+}
+
+#zane {
+    margin-right: 20px;
+    margin-bottom:15px;
+    float: left;
+}
+
+.col-xl-4{
+    height: 200px;
+    background-color: white;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    text-align: center;
+    border-style: solid;
+    border-width:1px;
+    border-color:#cccccc;
+}
+
+#connect{
+    border-bottom-style: solid;
+    border-width: 5px;
+    border-bottom-color: #cccccc;
+    padding: 15px;
+    color: #4aaaa5;
+}
+
+
+.footer{
+    text-align: center;
+    background-color: #666666;
+    height: 85px;
+    border-top-style: solid;
+    border-color: #4aaaa5;
+    border-width: 10px;
+}
+
+/* Contact Page */
+
+#contact{
+    border-bottom-style: solid;
+    border-width: 5px;
+    border-bottom-color: #cccccc;
+    padding-bottom: 20px;
+    color: #4aaaa5;
+}
+
+/* Portfolio Page */
+
+.photos{
+    margin: 10px;
+}
+
+
+.card{
+    margin: 10px;
+}
+
+.card-text{
+    color: white;
+}
+
+.card-body{
+    background-color: #4aaaa5;
+}
+
+.portfolio-link{
+    color: white;
+    padding: 0;
+}
+
